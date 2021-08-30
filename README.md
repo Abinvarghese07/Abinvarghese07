@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
  🔭 I’m currently working on ...Deep learning and machine learing projects
 - 🌱 I’m currently learning ...Deep Learning
